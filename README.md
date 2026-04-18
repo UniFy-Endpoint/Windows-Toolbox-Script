@@ -1,3 +1,5 @@
+[![Download Latest Release](https://img.shields.io/github/v/release/UniFy-Endpoint/Windows-Toolbox-Script?label=Download%20Latest&style=for-the-badge&logo=github)](https://github.com/UniFy-Endpoint/Windows-Toolbox-Script/releases/latest)
+
 # Windows Management Toolbox
 
 A menu-driven PowerShell script that automates four common IT tasks on Windows 10/11:
